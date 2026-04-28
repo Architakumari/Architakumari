@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a passionate Computer Science undergraduate with a strong interest in machine learning, full-stack development, and networking systems. I am currently working on projects such as an e-commerce web application and predictive models in healthcare and mental health, focusing on building practical, real-world solutions. I am eager to collaborate on projects related to machine learning, Flask-based web development, and network protocol research, while also seeking to deepen my understanding of scalable backend systems and real-world ML deployment. I am continuously learning advanced data science techniques and networking concepts like QUIC, and enjoy discussing topics such as data structures and algorithms, machine learning, and system design, with hands-on experience in improving model performance using real-world datasets.
+I’m a Computer Science undergraduate passionate about building impactful, real-world solutions through machine learning, full-stack development, and networking. I enjoy working on projects that combine practical application with strong fundamentals, including e-commerce platforms and healthcare prediction models focused on performance and usability.
+Currently, I’m exploring advanced data science techniques and modern network protocols like QUIC, while strengthening my understanding of scalable backend systems, system design, and data structures & algorithms. I’m particularly interested in how systems perform in real-world environments and how security and efficiency can be improved together.
+I’m always eager to learn, collaborate, and contribute to projects that challenge me and help me grow as a developer.
 
 
 ## 🌐 Socials:
