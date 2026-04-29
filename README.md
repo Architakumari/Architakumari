@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a Computer Science undergraduate passionate about building impactful, real-world solutions through machine learning, full-stack development, and networking. I enjoy working on projects that combine practical application with strong fundamentals, including e-commerce platforms and healthcare prediction models focused on performance and usability.
 Currently, I’m exploring advanced data science techniques and modern network protocols like QUIC, while strengthening my understanding of scalable backend systems, system design, and data structures & algorithms. I’m particularly interested in how systems perform in real-world environments and how security and efficiency can be improved together.
-I’m always eager to learn, collaborate, and contribute to projects that challenge me and help me grow as a developer.
+I am always eager to learn, collaborate, and contribute to projects that challenge me and help me grow as a developer.
 
 
 ## 🌐 Socials:
